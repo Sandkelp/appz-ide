@@ -1,7 +1,7 @@
 app:
   name: AppZ IDE
   code: APPZIDE
-  notify: krishnan.rejith@gmail.com
+  notify: ssubhendu@hillers.org
 
 build:
   version: 0.2
@@ -25,5 +25,5 @@ volumes:
   size: 5Gi 
 
 properties:
-  IDE_PASSWORD_HASH: "appz:$2y$10$vj2SB0Hp6yNMQobwv4Oi3u/AoJT6B6VBW5kZ9Go4x8ZjNVdNleq8u"
+  IDE_PASSWORD_HASH: "Sankalp:$2y$10$cPDhqGa90E6mmAXpmtYs5u/23HGmrCHFDF0aKmIefNTr1ToRiucSW"
   revision : 20
